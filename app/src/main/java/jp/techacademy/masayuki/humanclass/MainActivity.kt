@@ -10,7 +10,7 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
 
         val human1 = Human("ポチ",3)
-        val human2 = Human("ぽち",3)
+        val human2 = Human("シロ",4)
 
         human1.say()
         human2.think()
